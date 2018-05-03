@@ -30,7 +30,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wtb2015/WTB2015.GITHUB.IO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#Your Pages site will use the layout and styles from the Jekyll theme you have selected in your
+# [repository settings](https://github.com/wtb2015/WTB2015.GITHUB.IO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<h1> Hello World ! </h1>
+<p> My username is GITHUB_USERNAME </p>
 
 ### Support or Contact
 
